@@ -1,6 +1,6 @@
 #from 07classExample import Queue as Q
 
-Q = __import__('07classExample').Queue
+Q = __import__('07class').Queue
 
 class QueueManager:
 	
